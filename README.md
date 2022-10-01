@@ -4,3 +4,5 @@
 # Mes projets
 Je travail actuellement sur :
 - 🧹 Oto-Maintenance
+# Mon serveur Discord
+- https://discord.gg/4rnfqCGTgx
