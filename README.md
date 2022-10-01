@@ -2,8 +2,12 @@
 - 👋 Salut, je suis @enioaiello
 - 📫 Pour me contacter tu peux m'envoyer un mail sur : eaiello@edenschool.fr
 # Mes projets
-Je travail actuellement sur :
+## Je travail actuellement sur :
 - 🖥 Oto-Maintenance
+## J'ai fini :
+- ⭕️ Safa
+- 🔢 Number
+- 🛡 Calculatrice
 # Mes connaissances
 J'apprend encore :
 - ⚙️ Le batch 
