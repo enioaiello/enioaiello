@@ -14,5 +14,5 @@ J'apprend encore :
 Donc ce github montre mon évolution dans l'apprentissage !
 # Mes passions
 J'aime beaucoup :
-- 💬 Discord
+- 💬 Utiliser Discord
 - 💻 Programmer
