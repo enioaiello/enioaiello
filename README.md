@@ -11,7 +11,6 @@ J'apprend encore :
 - 🎨 Le CSS
 - 🤖 Le JavaScript
 - 🐍 Le Python
-Donc ce github montre mon évolution dans l'apprentissage !
 # Mes passions
 J'aime beaucoup :
 - 💬 Utiliser Discord
