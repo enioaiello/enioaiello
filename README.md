@@ -5,9 +5,7 @@
 ## Je travail actuellement sur :
 - 🖥 Oto-Maintenance
 ## J'ai fini :
-- ⭕️ Safa
-- 🔢 Number
-- 🛡 Calculatrice
+- ⭕ Aucuns projets
 # Mes connaissances
 J'apprend encore :
 - ⚙️ Le batch 
