@@ -1,6 +1,6 @@
 # Accueil
 - 👋 Salut, je suis @enioaiello
-- 📫 Pour me contacter tu peux m'envoyer un mail sur : eaiello@edenschool.fr
+- 📫 Pour me contacter tu peux m'envoyer un mail sur : aielloenio@icloud.com
 # Mes projets
 ## Je travail actuellement sur :
 - 🖥 Oto-Maintenance
