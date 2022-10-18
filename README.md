@@ -4,6 +4,7 @@
 # Mes projets
 ## Je travail actuellement sur :
 - 🖥 Oto-Maintenance
+- 🌍 EasySite
 ## J'ai fini :
 - ⭕ Aucuns projets
 # Mes connaissances
