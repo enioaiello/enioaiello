@@ -8,12 +8,14 @@
 ## J'ai fini :
 - ⭕ Aucuns projets
 # Mes connaissances
-J'apprend encore :
+## J'apprend encore
 - ⚙️ Le batch 
 - 🌐 Le HTML
 - 🎨 Le CSS
 - 🤖 Le JavaScript
 - 🐍 Le Python
+## Je maîtrise
+- ❌ Aucuns langages pour l'instant !
 # Mes passions
 J'aime beaucoup :
 - 💬 Utiliser Discord
