@@ -14,6 +14,7 @@
 - 🎨 Le CSS
 - 🤖 Le JavaScript
 - 🐍 Le Python
+- 🦅 Le Swift
 ## Je maîtrise
 - ❌ Aucuns langages pour l'instant !
 # Mes passions
