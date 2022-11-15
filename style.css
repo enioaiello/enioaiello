@@ -1,0 +1,125 @@
+body {
+    font-family: sans-serif;
+    font-size: 3vh;
+    text-align: center;
+    margin: 0%;
+    padding: 0%;
+}
+
+button {
+    border: 0vh solid black;
+    background-color: black;
+    border-radius: 0.5vh;
+    width: 50vh;
+    height: 5vh;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+    margin: 0 auto;
+}
+
+li {
+    display: inline-block;
+    margin: 2vh;
+}
+
+nav {
+    background-color: black;
+    height: 8vh;
+}
+
+ul {
+    padding-top: 0;
+    padding-left: 2.5vh;
+}
+
+#firstLink {
+    font-weight: bold;
+    color: white;
+}
+
+.secondsLink {
+    color: white;
+}
+
+.mainImage {
+    width: 75%;
+}
+
+.buttonText {
+    color: white;
+    font-size: 1.3vw;
+    width: 50vh;
+}
+
+article {
+    display: inline-block;
+    border-radius: 0.5vh;
+    border: 0.5vh  solid black;
+    width: 50vh;
+    padding: 2vh;
+    margin-bottom: 2vh;
+}
+
+.buttonArticle {
+    width: 40.5vh;
+}
+
+.otherLink {
+    text-decoration: underline;
+}
+
+.blank {
+    height: 2vh;
+}
+
+#mainTitle {
+    color: white;
+}
+
+#myVideos {
+    padding-top: 0.5vh;
+    padding-bottom: 0.5vh;
+    background-color: #5865f2;
+    height: 100%;
+}
+
+.imgArticle {
+    height: 20vh;
+    width: 20vh;
+}
+
+.imageArticle1 {
+    width: 20vh;
+}
+
+.videosButton {
+    border: 0vh solid white;
+    background-color: white;
+    border-radius: 0.5vh;
+    width: 50vh;
+    height: 5vh;
+}
+
+.buttonVideosText {
+    color: black;
+    text-decoration: none;
+    font-size: 1.3vw;
+}
+
+#whiteLink {
+    color: white;
+    text-decoration: underline;
+}
+
+footer {
+    color: gray;
+    font-size: 16px;
+}
