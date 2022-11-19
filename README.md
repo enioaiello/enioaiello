@@ -6,7 +6,8 @@
 - 🖥 Oto-Maintenance
 - 🌍 EasySite
 ## J'ai fini :
-- ⭕ Aucuns projets
+- Mon site personnel
+- Le site officiel de Discommunity
 # Mes connaissances
 ## J'apprend encore
 - ⚙️ Le batch 
