@@ -57,6 +57,9 @@ ul {
     color: white;
     font-size: 1.3vw;
     width: 50vh;
+    height: 5vh;
+    display: inline-block;
+    padding-top: 1px;
 }
 
 article {
