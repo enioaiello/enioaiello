@@ -120,6 +120,7 @@ article {
 }
 
 footer {
-    color: gray;
+    color: white;
     font-size: 16px;
+    background-color: black;
 }
