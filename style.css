@@ -1,9 +1,21 @@
-body {
+* {
+    /*box-sizing: border-box;*/
     font-family: sans-serif;
     font-size: 3vh;
+}
+
+body {
     text-align: center;
     margin: 0%;
     padding: 0%;
+}
+
+h1 {
+    font-size: 5vh;
+}
+
+h2 {
+    font-size: 4vh;
 }
 
 button {
@@ -40,6 +52,11 @@ ul {
     padding-left: 2.5vh;
 }
 
+iframe {
+    border-radius: 5px;
+    border: 1px solid #5865f2;
+}
+
 #firstLink {
     font-weight: bold;
     color: white;
@@ -51,12 +68,16 @@ ul {
 
 .mainImage {
     width: 75%;
+    border-radius: 5px;
 }
 
 .buttonText {
     color: white;
     font-size: 1.3vw;
     width: 40.5vh;
+    display: inline-block;
+    margin-top: 0.5vh;
+    height: 4vh;
 }
 
 article {
@@ -68,8 +89,13 @@ article {
     margin-bottom: 2vh;
 }
 
+.subtitleH3 {
+    font-size: 2vh;
+}
+
 .buttonArticle {
     width: 40.5vh;
+    height: 4vh;
 }
 
 .otherLink {
@@ -98,6 +124,7 @@ article {
 
 .imageArticle1 {
     width: 20vh;
+    border-radius: 5px;
 }
 
 .videosButton {
@@ -114,9 +141,18 @@ article {
     font-size: 1.3vw;
 }
 
+.not-allowed {
+    cursor: not-allowed;
+}
+
 #whiteLink {
     color: white;
     text-decoration: underline;
+}
+
+#toolsDiv {
+    margin: 0 auto;
+    width: 100%;
 }
 
 #malwareDiv {
