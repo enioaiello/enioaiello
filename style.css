@@ -119,6 +119,11 @@ article {
     text-decoration: underline;
 }
 
+#malwareDiv {
+    margin: 0 auto;
+    width: 80%;
+}
+
 footer {
     color: gray;
     font-size: 16px;
