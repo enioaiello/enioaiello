@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Inter', sans-serif;
+    cursor: url('../cursors/Normal.png'), default;
 }
 
 body {
@@ -37,6 +38,11 @@ li {
     transform: translate(-50%, -50%);
 }
 
+#profile {
+    width: 15%;
+    border-radius: 50%;
+}
+
 .button {
     display: inline-block;
     text-decoration: none;
@@ -65,6 +71,7 @@ a {
     color: blue;
     text-decoration: none;
     font-weight: bold;
+    cursor: url("../cursors/Link.png"), default;
 }
 
 .leftArticle {
