@@ -27,6 +27,7 @@ li {
     background: url("../img/background.png") no-repeat;
     background-attachment: fixed;
     background-position: center;
+    background-size: cover;
 }
 
 #mainDiv {
@@ -43,7 +44,6 @@ li {
 #profile {
     width: 15%;
     border-radius: 50%;
-    /*border: 5px solid white;*/
 }
 
 h1 {
