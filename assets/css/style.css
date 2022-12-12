@@ -1,10 +1,6 @@
 * {
     box-sizing: border-box;
-    font-family: 'Inter', sans-serif;
-    cursor: url('../cursors/Normal.png'), default;
-}
-
-body {
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
 }
 
@@ -27,6 +23,12 @@ li {
     text-decoration: none;
 }
 
+#homeBody {
+    background: url("../img/background.png") no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
 #mainDiv {
     width: 80%;
     margin: 0 auto;
@@ -41,6 +43,23 @@ li {
 #profile {
     width: 15%;
     border-radius: 50%;
+    /*border: 5px solid white;*/
+}
+
+h1 {
+    color: white;
+}
+
+#whiteTitle {
+    color: white;
+}
+
+#whiteParagraph {
+    color: white;
+}
+
+p {
+    margin-top: 1%;
 }
 
 .button {
@@ -52,7 +71,8 @@ li {
     border-radius: 5px;
     width: 25%;
     height: 5vh;
-    padding: 1vh;
+    padding: 1.5vh;
+    margin: 1%;
 }
 
 .otherDiv {
@@ -71,7 +91,6 @@ a {
     color: blue;
     text-decoration: none;
     font-weight: bold;
-    cursor: url("../cursors/Link.png"), default;
 }
 
 .leftArticle {
