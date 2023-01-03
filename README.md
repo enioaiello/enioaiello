@@ -25,4 +25,4 @@ J'aime beaucoup :
 # ✨ Me suivre
 Voici quelques liens pour me suivre dans mon aventure !\
 ![GitHub followers](https://img.shields.io/github/followers/enioaiello?style=social)\
-![Twitter Follow](https://img.shields.io/twitter/follow/enioaiello?style=social)\
+![Twitter Follow](https://img.shields.io/twitter/follow/enioaiello?style=social)
