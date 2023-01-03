@@ -1,5 +1,4 @@
 👋 Salut, je suis @enioaiello, en voici un peu plus sur moi !\
-![GitHub followers](https://img.shields.io/github/followers/enioaiello?style=social)
 # 🏡 Accueil
 - 📫 Pour me contacter tu peux m'envoyer un mail [ici](eaiello@edenschool.fr) !
 - 🔌 [Voici mon site](https://enioaiello.github.io/enioaiello) !
@@ -23,3 +22,5 @@
 J'aime beaucoup :
 - 💬 `Utiliser Discord`
 - 💻 `Programmer`
+# ✨ Me suivre
+![GitHub followers](https://img.shields.io/github/followers/enioaiello?style=social)
