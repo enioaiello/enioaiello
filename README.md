@@ -1,4 +1,4 @@
-| 👋 Salut, je suis @enioaiello, en voici un peu plus sur moi ! |\
+<center>👋 Salut, je suis @enioaiello, en voici un peu plus sur moi !</center>\
 | ![alt text](https://enioaiello.github.io/enioaiello/assets/img/profile.jpg "Moi") |
 # 🏡 Accueil
 - 📫 Pour me contacter tu peux m'envoyer un mail [ici](eaiello@edenschool.fr) !
