@@ -4,8 +4,10 @@
 - 🔌 [Voici mon site](https://enioaiello.github.io/enioaiello) !
 # 🔨 Mes projets
 ## 🧑‍🎓 Je travail actuellement sur :
-- 🖥 `Oto-Maintenance`\ [Site officiel](https://enioaiello.github.io/Oto-Maintenance) | [Projet Github officiel](https://github.com/enioaiello/Oto-Maintenance)
-- 🌍 `EasySite`\ [site officiel](https://enioaiello.github.io/EasySite) | [Projet Github officiel](https://github.com/enioaiello/EasySite)
+- 🖥 `Oto-Maintenance`
+ [Site officiel](https://enioaiello.github.io/Oto-Maintenance) | [Projet Github officiel](https://github.com/enioaiello/Oto-Maintenance)
+- 🌍 `EasySite`
+ [Site officiel](https://enioaiello.github.io/EasySite) | [Projet Github officiel](https://github.com/enioaiello/EasySite)
 ## ✅ J'ai fini :
 - 🎉 Mon site personnel : [site officiel](https://enioaiello.github.io/enioaiello)
 # 🧠 Mes connaissances
