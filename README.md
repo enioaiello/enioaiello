@@ -4,10 +4,10 @@
 - 🔌 [Voici mon site](https://enioaiello.github.io/enioaiello) !
 # 🔨 Mes projets
 ## 🧑‍🎓 Je travail actuellement sur :
-- 🖥 `Oto-Maintenance`
-- 🌍 `EasySite`
+- 🖥 `Oto-Maintenance` : [site officiel](https://enioaiello.github.io/Oto-Maintenance)
+- 🌍 `EasySite` : [site officiel](https://enioaiello.github.io/EasySite)
 ## ✅ J'ai fini :
-- 🎉 Mon site personnel
+- 🎉 Mon site personnel : [site officiel](https://enioaiello.github.io/EnioAiello)
 # 🧠 Mes connaissances
 ## 🤔 J'apprend encore
 - ⚙️ Le `batch `
