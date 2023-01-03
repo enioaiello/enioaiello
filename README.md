@@ -7,7 +7,7 @@
 - 🖥 `Oto-Maintenance` : [site officiel](https://enioaiello.github.io/Oto-Maintenance)
 - 🌍 `EasySite` : [site officiel](https://enioaiello.github.io/EasySite)
 ## ✅ J'ai fini :
-- 🎉 Mon site personnel : [site officiel](https://enioaiello.github.io/EnioAiello)
+- 🎉 Mon site personnel : [site officiel](https://enioaiello.github.io/enioaiello)
 # 🧠 Mes connaissances
 ## 🤔 J'apprend encore
 - ⚙️ Le `batch `
