@@ -1,4 +1,4 @@
-👋 Salut, je suis @enioaiello, en voici un peu plus sur moi !\
+👋 Salut, je suis @enioaiello, en voici un peu plus sur moi !
 # 🏡 Accueil
 - 📫 Pour me contacter tu peux m'envoyer un mail [ici](eaiello@edenschool.fr) !
 - 🔌 [Voici mon site](https://enioaiello.github.io/enioaiello) !
