@@ -24,3 +24,4 @@ J'aime beaucoup :
 - 💻 `Programmer`
 # ✨ Me suivre
 ![GitHub followers](https://img.shields.io/github/followers/enioaiello?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/enioaiello?style=social)
