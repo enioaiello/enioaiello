@@ -8,7 +8,7 @@
 - 🌍 `EasySite` : [Site officiel](https://enioaiello.github.io/EasySite) | [Projet Github officiel](https://github.com/enioaiello/EasySite)
 - 🌍 `default_apps` : [Site officiel](https://enioaiello.github.io/default_apps) | [Projet Github officiel](https://github.com/enioaiello/default_apps)
 ## ✅ J'ai fini :
-- 🎉 Mon site personnel : [site officiel](https://enioaiello.github.io/enioaiello)
+- 🎉 Mon site personnel : [Site officiel](https://enioaiello.github.io/enioaiello) | [Projet Github officiel](https://github.com/enioaiello/enioaiello)
 # 🧠 Mes connaissances
 ## 🤔 J'apprend encore
 - ⚙️ Le `batch `
