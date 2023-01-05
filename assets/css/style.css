@@ -9,7 +9,8 @@ header {
 }
 
 ul {
-    margin: 0;
+    width: 80%;
+    margin: 0 auto;
     list-style-type: none;
 }
 
@@ -78,13 +79,14 @@ p {
 .otherDiv {
     width: 80%;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
 }
 
 article {
     display: inline-block;
     width: 50%;
     padding: 1%;
+    text-align: center;
 }
 
 a {
