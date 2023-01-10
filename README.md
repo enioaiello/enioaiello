@@ -3,7 +3,7 @@
 - 📫 Pour me contacter tu peux m'envoyer un mail à eaiello@edenschool.fr !
 - 🔌 [Voici mon site](https://enioaiello.github.io/enioaiello) !
 # 🔨 Mes projets
-## 🧑‍🎓 Je travail actuellement sur :
+## 🧑🎓 Je travail actuellement sur :
 - 🖥 `Oto-Maintenance` : [Site officiel](https://enioaiello.github.io/Oto-Maintenance) | [Projet Github officiel](https://github.com/enioaiello/Oto-Maintenance)
 - 🌍 `EasySite` : [Site officiel](https://enioaiello.github.io/EasySite) | [Projet Github officiel](https://github.com/enioaiello/EasySite)
 - 🌍 `default_apps` : [Site officiel](https://enioaiello.github.io/default_apps) | [Projet Github officiel](https://github.com/enioaiello/default_apps)
