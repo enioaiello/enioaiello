@@ -23,7 +23,12 @@
 J'aime beaucoup :
 - 💬 `Utiliser Discord`
 - 💻 `Programmer`
-# ✨ Me suivre
-Voici quelques liens pour me suivre dans mon aventure !\
+# 🧷 Badges
+## 🪟 Systèmes d'exploitations
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white
+https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white
+https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+## 🕊️ Réseaux sociaux
 ![GitHub followers](https://img.shields.io/github/followers/enioaiello?style=social)\
 ![Twitter Follow](https://img.shields.io/twitter/follow/enioaiello?style=social)
