@@ -1,4 +1,4 @@
-👋 Salut, je suis **enioaiello**, en voici un peu plus sur moi !
+👋 Salut, je suis **enioaiello** (ou **Frag** sur la plupart de mes réseaux), en voici un peu plus sur moi !
 # 🏡 Accueil
 - 📫 Pour me contacter tu peux m'envoyer un mail à eaiello@edenschool.fr !
 - 🔌 [Voici mon site](https://enioaiello.github.io/enioaiello) !
