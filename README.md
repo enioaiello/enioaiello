@@ -26,3 +26,6 @@ J'aime beaucoup :
 # 🕊️ Réseaux sociaux
 ![GitHub followers](https://img.shields.io/github/followers/enioaiello?style=social)\
 ![Twitter Follow](https://img.shields.io/twitter/follow/enioaiello?style=social)
+# 📥 Téléchargements
+**Oto-Maintenance :** ![Downloads](https://img.shields.io/github/downloads/enioaeillo/Oto-Maintenance/total.svg)
+**EasySite :** ![Downloads](https://img.shields.io/github/downloads/enioaeillo/EasySite/total.svg)
