@@ -9,7 +9,9 @@
 - ♻️ `default_apps` : [Site officiel](https://enioaiello.github.io/default_apps) | [Projet Github officiel](https://github.com/enioaiello/default_apps)
 ## ✅ J'ai fini :
 - 🎉 Mon site personnel : [Site officiel](https://enioaiello.github.io/enioaiello) | [Projet Github officiel](https://github.com/enioaiello/enioaiello)
-# 🧠 Mes connaissances
+# 🧠 Mes langages
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<!-- # 🧠 Mes connaissances
 ## 🤔 J'apprend encore
 - ⚙️ Le `batch `
 - 🌐 Le `HTML`
@@ -18,7 +20,7 @@
 - 🐍 Le `Python`
 - 🦅 Le `Swift`
 ## ⚡ Je maîtrise
-- ❌ Aucuns langages pour l'instant !
+- ❌ Aucuns langages pour l'instant ! -->
 # 🎈 Mes passions
 J'aime beaucoup :
 - 💬 `Utiliser Discord`
