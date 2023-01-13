@@ -1,5 +1,5 @@
 👋 Salut, je suis **enioaiello** (ou **Frag** sur la plupart de mes réseaux), en voici un peu plus sur moi !
-![Snake](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)
+<!-- ![Snake](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg) -->
 # 🏡 Accueil
 - 📫 Pour me contacter tu peux m'envoyer un mail à eaiello@edenschool.fr !
 - 🔌 [Voici mon site](https://enioaiello.github.io/enioaiello) !
