@@ -1,4 +1,5 @@
 👋 Salut, je suis **enioaiello** (ou **Frag** sur la plupart de mes réseaux), en voici un peu plus sur moi !
+![Snake](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)
 # 🏡 Accueil
 - 📫 Pour me contacter tu peux m'envoyer un mail à eaiello@edenschool.fr !
 - 🔌 [Voici mon site](https://enioaiello.github.io/enioaiello) !
@@ -32,4 +33,3 @@ J'aime beaucoup :
 **Oto-Maintenance :** ![Downloads](https://img.shields.io/github/downloads/enioaiello/Oto-Maintenance/total.svg)\
 **EasySite :** ![Downloads](https://img.shields.io/github/downloads/enioaiello/EasySite/total.svg)
 # 🏆 Autre
-![Snake](https://raw.githubusercontent.com/Envoy-VC/Envoy-VC/output/github-contribution-grid-snake-dark.svg)
