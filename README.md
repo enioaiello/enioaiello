@@ -32,4 +32,3 @@ J'aime beaucoup :
 # 📥 Téléchargements
 **Oto-Maintenance :** ![Downloads](https://img.shields.io/github/downloads/enioaiello/Oto-Maintenance/total.svg)\
 **EasySite :** ![Downloads](https://img.shields.io/github/downloads/enioaiello/EasySite/total.svg)
-# 🏆 Autre
