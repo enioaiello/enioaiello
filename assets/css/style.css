@@ -11,6 +11,10 @@ header {
     background-color: black;
 }
 
+#mainHeader {
+    background-color: transparent;
+}
+
 ul {
     width: 80%;
     margin: 0 auto;
