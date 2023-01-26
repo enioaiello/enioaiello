@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋 je suis Enio</h1>
+<h1 align="center">Salut je suis Enio</h1>
 <h3 align="center">Un étudiant dans le domaine du Web !</h3>
 
 - 🔭 Je travail actuellement sur [Oto-Maintenance](https://enioaiello.github.io/Oto-Maintenance)
