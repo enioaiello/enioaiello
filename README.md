@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/enioaiello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="enioaiello" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/enio-aiello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="enio-aiello" height="30" width="40" /></a>
 <a href="https://instagram.com/aielloenio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aielloenio" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thetruefrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thetruefrag" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thetruefrag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thetruefrag" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/q6vjGgDCbf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/invite/q6vjGgDCbf" height="30" width="40" /></a>
 </p>
 
