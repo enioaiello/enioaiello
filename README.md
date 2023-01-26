@@ -5,7 +5,9 @@
 
 - 🏆 J'ai fini [EasySite](https://enioaiello.github.io/EasySite)
 
-- 🌐 Vous pouvez en savoir plus sur [mon site personnel](https://enioaiello.github.io/enioaiello)
+- 🌐 Vous pouvez en savoir plus sur [mon site personnel](https://enioaiello.github.io/)
+
+- 🔮 Vous pouvez trouver plus de projets sur [ce compte](https://github.com/thetruefrag)
 
 <h3 align="left">Réseaux sociaux : </h3>
 <p align="left">
