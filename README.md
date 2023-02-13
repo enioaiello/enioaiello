@@ -9,6 +9,8 @@
 
 - 🔮 Vous pouvez trouver plus de projets sur [ce compte](https://github.com/thetruefrag)
 
+- 🍻 Principal fondateur de [Corundum](https://corundum-os.github.io)
+
 <h3 align="left">Réseaux sociaux : </h3>
 <p align="left">
 <a href="https://twitter.com/enioaiello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="enioaiello" height="30" width="40" /></a>
