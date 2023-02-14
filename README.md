@@ -1,13 +1,11 @@
 <h1 align="center">Salut je suis Enio</h1>
 <h3 align="center">Un étudiant dans le domaine du Web !</h3>
 
-- 🔭 Je travail actuellement sur [Oto-Maintenance](https://enioaiello.github.io/Oto-Maintenance)
+- 🔭 Je travail actuellement sur [Oto-Maintenance](https://github.com/enioaiello/Oto-Maintenance)
 
-- 🏆 J'ai fini [EasySite](https://enioaiello.github.io/EasySite)
+- 🏆 J'ai fini [EasySite](https://github.com/enioaiello/EasySite)
 
 - 🌐 Vous pouvez en savoir plus sur [mon site personnel](https://enioaiello.github.io/)
-
-- 🔮 Vous pouvez trouver plus de projets sur [ce compte](https://github.com/thetruefrag)
 
 - 🍻 Principal fondateur de [Corundum](https://corundum-os.github.io)
 
