@@ -1,10 +1,6 @@
 <h1 align="center">Salut je suis Enio</h1>
 <h3 align="center">Un étudiant dans le domaine du Web !</h3>
 
-- 🔭 Je travail actuellement sur [Admin Services](https://github.com/enioaiello/admin-services)
-
-- 🏆 J'ai fini [EasySite](https://github.com/enioaiello/EasySite)
-
 - 🌐 Vous pouvez en savoir plus sur [mon site personnel](https://enioaiello.github.io/)
 
 - 🍻 Principal fondateur de [Corundum](https://corundum-os.github.io)
@@ -30,7 +26,3 @@
 <h3 aling="left">Outils</h3>
 
 ![msoffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)  ![libreoffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-
-<h3 align="left">Statistiques</h3>
-
-![stats](https://github-readme-stats.vercel.app/api?username=enioaiello&theme=blue-green)
