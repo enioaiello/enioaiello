@@ -1,10 +1,6 @@
 <h1 align="center">Salut je suis Enio</h1>
 <h3 align="center">Un étudiant dans le domaine du Web !</h3>
 
-- 🌐 Vous pouvez en savoir plus sur [mon site personnel](https://enioaiello.github.io/)
-
-- 🍻 Principal fondateur de [Corundum](https://corundum-os.github.io)
-
 <h3 align="left">Réseaux sociaux </h3>
 
 ![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)   ![stackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)   ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)   ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)   ![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)   ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
