@@ -1,24 +1,24 @@
-<h1 align="center">Salut je suis Enio</h1>
-<h3 align="center">Un étudiant dans le domaine du Web !</h3>
+# 👋 Hello, World!
+## 🤔 Présentations
+Salut ! Je suis **Enio Aiello**, ou **Enio** pour faire court.\
+Je suis un étudiant chez [EdenSchool](https://edenschool.fr) et je suis donc **apprenti développeur Web** ! J'aime partager mes créations via **GitHub** ! Et surtout, ce qui me motive à venir ici, c'est l'**informatique** et le **développement** sous toutes ces formes.\
+Sur mon profil, tu retrouveras :
+- Des sites Internet, comme mon **site personnel**
+- Le profil GitHub de **Corundum**, mon plus grand projet, toujours en création
+- Mes réseaux sociaux : ma chaîne YouTube, mon compte Twitter et Instagram…
+## 💾 Projets
+Je travail sur divers projets, y compris des sites Web, comme [Admin Services](https://enioaiello.github.io/admin-services), qui est actuellement, l'un des sites sur lequel je travail et apprend le mieux. Ou alors je travail sur quelques outils pour **Windows** et **macOS** (**Linux** ça sera pour bientôt) !\
+## 💬 Réseaux sociaux
+Comme évoqué précédemment, je suis sur les réseaux ! Comme **YouTube**, **Discord**, **Twitter**, **TikTok**, **Instagram**… Bien évidemment je vous mets à disposition mon **Twitter**, **Instagram** et ma chaîne **YouTube** pour que je vous parles de tous mes projets et pour qu'on puisse discuter !
+## 💻 Matériel
+J'utilises beaucoup des produits Apple **recondtionnés** ou d'**occasions** car c'est **moins cher** et plus **écologique** ! Voici mon matériel actuel !
+- MacBook Pro 2012 : 512 Go SSD ; 8 Go RAM ; Intel Core i5 2,5 Ghz Double Cœur ; Patch **OpenCore** sous macOS 13 (Ventura)
+- iPhone SE 2022 : 64 Go NAND ; 4 Go RAM ; A15 Bionic ; iOS 17 Developper Beta 2
+- Apple Watch 2019 : 32 Go NAND ; ??? Go RAM ; ??? ; watchOS 10 Developper Beta
+- iPad 2012 : 16 Go NAND ; 1 Go RAM ; A6X ; iOS 10.3
+- iMac 2011 : 1 To SSD ; 8 Go RAM ; ??? ; macOS 10.13.6 (High Sierra)
+- iPad 2 : 8 Go NAND ; 512 Mo RAM ; A5 ; iOS 9
+- MacBook Pro 2010 : 500 Go HDD ; 4 Go RAM ; Intel Core 2 Duo 2,4 Ghz ; macOS X 10.5.8 (HS)
 
-<h3 align="left">Réseaux sociaux </h3>
-
-![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)   ![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)   ![stackOverflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)   ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)   ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)   ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)   ![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)   ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
-
-
-
-<h3 align="left">Langages </h3>
-
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![p5](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)  ![md](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-<h3 align="left">Systèmes d'exploitations</h3>
-
-![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  ![ios](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)  ![mac](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)  ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)  ![wsl](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)
-
-<h3 align="left">IDE</h3>
-
-![phpstorm](http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white)  ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-<h3 aling="left">Outils</h3>
-
-![msoffice](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) ![todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)  ![libreoffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
+---
+**✌️ On se voit bientôt !**
