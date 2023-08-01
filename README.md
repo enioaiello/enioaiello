@@ -12,7 +12,7 @@ Je travail sur divers projets, y compris des sites Web, comme [Admin Services](h
 Comme évoqué précédemment, je suis sur les réseaux ! Comme **YouTube**, **Discord**, **Twitter**, **TikTok**, **Instagram**… Bien évidemment je vous mets à disposition mon **Twitter**, **Instagram** et ma chaîne **YouTube** pour que je vous parles de tous mes projets et pour qu'on puisse discuter !
 ## 💻 Matériel
 J'utilises beaucoup des produits Apple **recondtionnés** ou d'**occasions** car c'est **moins cher** et plus **écologique** ! Voici mon matériel actuel !
-- MacBook Pro 2012 : 512 Go SSD ; 8 Go RAM ; Intel Core i5 2,5 Ghz Double Cœur ; Patch **OpenCore** sous macOS 13 (Ventura)
+- MacBook Pro 2012 : 512 Go SSD ; 8 Go RAM ; Intel Core i5 2,5 Ghz Double Cœur ; ~~Patch **OpenCore** sous macOS 13 (Ventura)~~ macOS Catalina (10.15)
 - iPhone SE 2022 : 64 Go NAND ; 4 Go RAM ; A15 Bionic ; iOS 17 Developper Beta 2
 - Apple Watch 2019 : 32 Go NAND ; ??? Go RAM ; ??? ; watchOS 10 Developper Beta
 - iPad 2012 : 16 Go NAND ; 1 Go RAM ; A6X ; iOS 10.3
