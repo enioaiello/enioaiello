@@ -5,11 +5,14 @@
 🎥 Je fais des vidéos sur **YouTube** !\
 💬 [Mon Serveur Discord](https://discord.gg/pzwAWQFMJM)
 ### 🐍 Langages
-🌐 HTML5\
-🎨 CSS3\
-🤖 JavaScript
+🌐 **HTML5**\
+🎨 **CSS3**\
+🤖 **JavaScript**\
+🟣 PHP\
+🐬 MySQL
 ### ⚙️ Outils
 🔰 PhpStorm\
+🐋 Docker\
 ⚜️ **VMware Fusion Pro 13**/VMware Workstation 17 Pro\
 ⌛ OpenCore-Legacy-Patcher
 ### 💠 Systèmes d'exploitations
