@@ -14,7 +14,9 @@
 🔰 PhpStorm\
 🐋 Docker\
 ⚜️ **VMware Fusion Pro 13**/VMware Workstation 17 Pro\
-⌛ OpenCore-Legacy-Patcher
+⌛ OpenCore-Legacy-Patcher\
+📀 [Ventoy](https://ventoy.net/en/index.html)\
+🛍️ [PortableApps](https://portableapps.com/)
 ### 💠 Systèmes d'exploitations
 🍎 **macOS 14.4.1 (OpenCore : iMac mid2011, MacBook Pro mid2012), iOS 17.4.1 Developper Beta, watchOS 10.4 Developper Beta**\
 🪟 Windows 7 SP1 Professionnel - **Windows 11 23h2 (matériel)** ; Windows 95 - Windows 11 24h2 (machine virtuelle)\
