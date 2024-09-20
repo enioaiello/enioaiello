@@ -16,6 +16,6 @@
 - 🔄 OpenCore-Legacy-Patcher
 - 💾 Ventoy
 ### 💠 Systèmes d'exploitations
-- 💻 macOS 14.5
+- 💻 macOS 15
 - 📱 iOS 18
 - ⌚️ watchOS 10
