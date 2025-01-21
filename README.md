@@ -1,13 +1,13 @@
 <h1 align="center">👋 Salut, je suis Enio Aiello</h1>
 <h3 align="center">Un passionné d'informatique 🚀</h3>
 
-- 🔭 Je travaille actuellement sur [Atomix](https://github.com/enioaiello/atomix)
+- 🔭 Je travaille actuellement sur [Atomix](https://github.com/enioaiello/atomix) et [Corundum maintenance](https://github.com/CorundumProject/maintenance)
 
 - 🌱 J'apprend actuellement **le PHP, le MySQL, composer, le Python, Tailwind**
 
 - 🔰 Je fais des vidéos sur [YouTube](https://youtube.com/@enioaiello)
 
-- 🤝 Je cherche des testeurs pour [Corundum](https://github.com/enioaiello/corundum)
+- 🤝 Je cherche des testeurs pour [Corundum maintenance](https://github.com/CorundumProject/maintenance)
 
 - 👨‍💻 Tous mes projets sont disponibles à [https://enioaiello.github.io/](https://enioaiello.github.io/)
 
@@ -19,7 +19,6 @@
 <p>Cliquez pour consulter.</p>
 <p align="left">
 <a href="https://codepen.io/enioaiello" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen"/></a>
-<a href="https://twitter.com/enioaiello" target="blank"><img align="center" src="    https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)"/></a>
 <a href="https://linkedin.com/in/enioaiello" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/aielloenio" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.youtube.com/c/enioaiello" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
