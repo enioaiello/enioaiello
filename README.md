@@ -13,8 +13,6 @@
 
 - 💬 Demandez-moi pour **Windows, macOS, iOS, WatchOS, Android**
 
-- 📫 Contactez-moi à **aielloenio@icloud.com**
-
 <h3 align="left">Mes réseaux :</h3>
 <p>Cliquez pour consulter.</p>
 <p align="left">
@@ -22,7 +20,7 @@
 <a href="https://linkedin.com/in/enioaiello" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/aielloenio" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 <a href="https://www.youtube.com/c/enioaiello" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://discord.gg/uxhTP3fv6F" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://enioaiello.github.io/discommunity" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 <h3 align="left">Mes langages :</h3>
