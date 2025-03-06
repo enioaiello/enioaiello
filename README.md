@@ -7,11 +7,13 @@
 
 - 🔰 Je fais des vidéos sur [YouTube](https://youtube.com/@enioaiello)
 
-- 🤝 Je cherche des testeurs pour [Corundum maintenance](https://github.com/CorundumProject/maintenance)
+- 🤝 Je cherche des testeurs pour [Atomix](https://github.com/enioaiello/atomix) et [Corundum maintenance](https://github.com/CorundumProject/maintenance)
 
-- 👨‍💻 Tous mes projets sont disponibles à [https://enioaiello.github.io/](https://enioaiello.github.io/)
+- 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio](https://enioaiello.github.io/)
 
 - 💬 Demandez-moi pour **Windows, macOS, iOS, WatchOS, Android**
+
+- 🎯 Fondateur de [Corundum](https://github.com/corundumproject)
 
 <h3 align="left">Mes réseaux :</h3>
 <p>Cliquez pour consulter.</p>
