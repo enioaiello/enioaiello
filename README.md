@@ -1,3 +1,4 @@
+![banner](images/banner.png)
 <h1 align="center">👋 Salut, je suis Enio Aiello</h1>
 <h3 align="center">Un passionné d'informatique 🚀</h3>
 
