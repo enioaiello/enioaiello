@@ -1,20 +1,12 @@
 # Salut, je suis Enio !
 
-## Passionné d'informatique
-
 - 🎯 Fondateur de [Corundum](https://github.com/corundumproject)
 
 - 🔭 Je travaille actuellement sur [Atomix](https://github.com/enioaiello/atomix) et [Corundum maintenance](https://github.com/CorundumProject/maintenance)
 
-- 🌱 J'apprend actuellement **le PHP, le MySQL, composer, le Python, Tailwind**
+- 🌱 J'apprend actuellement **le PHP, le MySQL, le Python, Tailwind**
 
-- 🔰 Je fais des vidéos sur [YouTube](https://youtube.com/@enioaiello)
-
-- 🤝 Je cherche des testeurs pour [Atomix](https://github.com/enioaiello/atomix) et [Corundum maintenance](https://github.com/CorundumProject/maintenance)
-
-- 👨‍💻 Tous mes projets sont disponibles sur [mon portfolio](https://enioaiello.github.io/)
-
-- 💬 Demandez-moi pour **Windows, macOS, iOS, WatchOS, Android**
+- 👨‍💻 Tous mes projets et mes réseaux sociaux sont disponibles sur [mon portfolio](https://enioaiello.github.io/)
 
 ### Langages :
 
