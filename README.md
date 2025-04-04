@@ -1,4 +1,5 @@
-# Salut, je suis Enio !
+<h1 align="center">👋 Salut, je suis Enio</h1>
+<h3 align="center">Un passionné d'informatique 🚀</h3>
 
 - 🎯 Fondateur de [Corundum](https://github.com/corundumproject)
 
