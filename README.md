@@ -8,6 +8,8 @@
 - 🌱 J'apprend actuellement **le PHP, le MySQL, le Python, Tailwind**
 
 - 👨‍💻 Tous mes projets et mes réseaux sociaux sont disponibles sur [mon portfolio](https://enioaiello.github.io/)
+  
+- ❤️ Vous aimez le travail que je fais ou vous voulez me soutenir, [consultez mon profil GitHub Sponsors](https://github.com/sponsors/enioaiello)
 
 ### 🐍 Langages :
 
