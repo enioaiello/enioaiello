@@ -1,12 +1,13 @@
-# 👋 Bonjour
+# Hello, World!
 
-## 🚀 À propos de moi
+## À propos de moi
 
-- 💻 Passionné par l'informatique
-- 🌱 Fondateur de [Corundum](https://github.com/CorundumProject)
-- 🔭 Actuellement en train de travailler sur [Atomix](https://github.com/enioaiello/atomix)
+- Passionné par l'informatique
+- Fondateur de [Corundum](https://github.com/CorundumProject)
+- Pisciners chez [42 Paris](https://42.fr/en/homepage/)
+- Actuellement en train de travailler sur [DeviceSphere](https://github.com/enioaiello/devicesphere)
 
-## 🛠️ Technologies
+## Technologies
 
 ![html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -17,7 +18,7 @@
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![p5js](https://img.shields.io/badge/p5%20js-ED225D?style=for-the-badge&logo=p5dotjs&logoColor=white)
 
-## 🔧 Outils
+## Outils
 
 ![bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -31,7 +32,7 @@
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-## 💾 Systèmes d'exploitation
+## Systèmes d'exploitation
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
@@ -46,6 +47,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-## 📫 Me contacter
+## Me contacter
 
-<a href="https://www.linkedin.com/in/enioaiello"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- **Portfolio :** https://enioaello.fr/
+- **Adresse email :** contact@enioaiello.fr
