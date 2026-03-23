@@ -4,7 +4,6 @@
 
 - Passionné par l'informatique
 - Fondateur de [Corundum](https://github.com/CorundumProject)
-- Pisciners chez [42 Paris](https://42.fr/en/homepage/)
 - Actuellement en train de travailler sur [DeviceSphere](https://github.com/enioaiello/devicesphere)
 
 ## Technologies
